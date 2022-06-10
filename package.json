@@ -1,0 +1,27 @@
+{
+  "name": "@mvanderlugt/electron-wrapper",
+  "version": "0.2.0",
+  "main": "dist/Main.js",
+  "types": "dist/Main.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Vander Lugt",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@types/electron": "^1.6.10",
+    "electron": "~19.0.4",
+    "typescript": "~4.7.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvanderlugt/electron-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mvanderlugt/electron-wrapper/issues"
+  },
+  "homepage": "https://github.com/mvanderlugt/electron-wrapper#readme",
+  "description": ""
+}
