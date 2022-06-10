@@ -6,7 +6,7 @@ type Dimension = {
     height: number;
 }
 
-export default class Main {
+export default class TrayApplication {
     application: Electron.App;
     mainWindow: Electron.BrowserWindow;
     tray: Tray;

@@ -1,8 +1,8 @@
 {
   "name": "@mvanderlugt/electron-wrapper",
-  "version": "0.2.0",
-  "main": "dist/Main.js",
-  "types": "dist/Main.d.ts",
+  "version": "1.0.0",
+  "main": "dist/TrayApplication.js",
+  "types": "dist/TrayApplication.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
