@@ -1,6 +1,6 @@
 {
   "name": "@mvanderlugt/electron-wrapper",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "dist/TrayApplication.js",
   "types": "dist/TrayApplication.d.ts",
   "scripts": {
@@ -9,10 +9,8 @@
   },
   "author": "Mark Vander Lugt",
   "license": "Apache-2.0",
-  "dependencies": {
-    "electron": "^21.2.0"
-  },
   "devDependencies": {
+    "electron": "^21.2.0",
     "typescript": "~4.8.4"
   },
   "repository": {
